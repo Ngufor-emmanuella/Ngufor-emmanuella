@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **JavaScript, React and other programming languages project**
+- 👯 I’m looking to collaborate on **JavaScript, React, and other programming languages projects**
 
 - 👨‍💻 All of my projects are available at [https://ngufor-emmanuella.github.io/](https://ngufor-emmanuella.github.io/)
 
@@ -39,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngufor-emmanuella&show_icons=true&locale=en" alt="ngufor-emmanuella" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngufor-emmanuella&" alt="ngufor-emmanuella" /></p>
+
+
