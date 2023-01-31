@@ -12,17 +12,17 @@
 
 - 🔭 I’m currently working on [Becoming a front-end web developer](https://ngufor-emmanuella.github.io/microverse-capstone/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Ruby On Rails**
 
-- 👯 I’m looking to collaborate on **JavaScript, React, and other programming languages projects**
+- 👯 I’m looking to collaborate on **JavaScript, React, Angular, Ruby and other programming languages projects**
 
 - 👨‍💻 All of my projects are available at [https://ngufor-emmanuella.github.io/](https://ngufor-emmanuella.github.io/)
 
-- 💬 Ask me about **Javascript questions, health or anything**
+- 💬 Ask me about **Anything about programming, health or anything**
 
 - 📫 How to reach me **emmanuellangufor@gmail.com**
 
-- ⚡ Fun fact **I am welcoming and always ready to be corrected and learn new ideas**
+- ⚡ Fun fact **I am welcoming, always ready to be corrected and very open learn new ideas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
