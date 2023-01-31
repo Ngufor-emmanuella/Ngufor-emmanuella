@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/ngufor emmanuella" target="blank"><img src="https://img.shields.io/twitter/follow/ngufor emmanuella?logo=twitter&style=for-the-badge" alt="ngufor emmanuella" /></a> </p>
 
-- 🔭 I’m currently working on [Becoming a front-end web developer](https://ngufor-emmanuella.github.io/microverse-capstone/)
+- 🔭 I’m currently working on [Becoming a full-stack web developer](https://ngufor-emmanuella.github.io/microverse-capstone/)
 
 - 🌱 I’m currently learning **Ruby On Rails**
 
