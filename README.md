@@ -26,7 +26,7 @@
 
 **My skill set includes**
 
-- Front-end development: JavaScript | React | Redux | jQuery | HTML5 | CSS3
+- Front-end development: JavaScript | React | Redux | Angular | HTML5 | CSS3
 - Back-end: development: Ruby, Rails, PHP, Java
 - Databases: MySQL | PostgreSQL
 - Styling & UI/UX: SASS | CSS | Bootstrap | Tailwind CSS
