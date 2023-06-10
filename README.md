@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **emmanuellangufor@gmail.com**
 
-- ⚡ Fun fact **I am welcoming, always ready to be corrected and very open learn new ideas**
+- ⚡ Fun fact **I am welcoming, always ready to be corrected and very open to learn new ideas**
 
 **My skill set includes**
 
