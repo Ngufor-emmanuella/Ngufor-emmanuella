@@ -24,6 +24,15 @@
 
 - ⚡ Fun fact **I am welcoming, always ready to be corrected and very open learn new ideas**
 
+**My skill set includes**
+
+- Front-end development: JavaScript | React | Redux | jQuery | HTML5 | CSS3
+- Back-end: development: Ruby, Rails, PHP, Java
+- Databases: MySQL | PostgreSQL
+- Styling & UI/UX: SASS | CSS | Bootstrap | Tailwind CSS
+- Testing: Jest | React Testing Library | RSpec
+- Infrastructure: Git |CI/CD (ESlint & rubocop) | Netlify | ActiveRecord | Devise| Kanban | Chrome Dev Tools
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ngufor emmanuella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ngufor emmanuella" height="30" width="40" /></a>
