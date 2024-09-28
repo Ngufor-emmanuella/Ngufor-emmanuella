@@ -10,25 +10,25 @@
 
 <p align="left"> <a href="https://twitter.com/ngufor emmanuella" target="blank"><img src="https://img.shields.io/twitter/follow/ngufor emmanuella?logo=twitter&style=for-the-badge" alt="ngufor emmanuella" /></a> </p>
 
-- 🔭 I’m currently working on [Becoming a full-stack web developer](https://ngufor-emmanuella.github.io/microverse-capstone/)
+- 🔭 I’m currently working on [Becoming a DevOps Engineer](https://ngufor-emmanuella.github.io/microverse-capstone/)
 
-- 🌱 I’m currently learning **Ruby On Rails**
+- 🌱 I’m currently learning **Aws / DevOps**
 
-- 👯 I’m looking to collaborate on **JavaScript, React, Angular, Ruby and other programming languages projects**
+- 👯 I’m looking to collaborate on **Nextjs, React, Python, Ruby and DevOps**
 
 - 👨‍💻 All of my projects are available at [https://ngufor-emmanuella.github.io/](https://ngufor-emmanuella.github.io/)
 
-- 💬 Ask me about **Anything about programming, health or anything**
+- 💬 Ask me about **Anything about Programming, DevOps, Health **
 
 - 📫 How to reach me **emmanuellangufor@gmail.com**
 
-- ⚡ Fun fact **I am welcoming, always ready to be corrected and very open to learn new ideas**
+- ⚡ Fun fact **I love challenges and learning new things**
 
 **My skill set includes**
 
-- Front-end development: JavaScript | React | Redux | Angular | HTML5 | CSS3
-- Back-end: development: Ruby, Rails, PHP, Java
-- Databases: MySQL | PostgreSQL
+- Front-end development: JavaScript | React | Redux | Next | HTML5 | CSS3
+- Back-end: development: Python, Django, Rails, Ruby on Rails
+- Databases: MySQL | PostgreSQL, Sqlite3
 - Styling & UI/UX: SASS | CSS | Bootstrap | Tailwind CSS
 - Testing: Jest | React Testing Library | RSpec
 - Infrastructure: Git |CI/CD (ESlint & rubocop) | Netlify | ActiveRecord | Devise| Kanban | Chrome Dev Tools
